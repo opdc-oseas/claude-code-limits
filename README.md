@@ -1,6 +1,6 @@
 # claude-code-limits
 
-<img width="1893" height="128" alt="image" src="https://github.com/user-attachments/assets/cf9b43e5-7c4c-410d-a3bb-4a983ca26c4c" />
+<img width="933" height="113" alt="image" src="https://github.com/user-attachments/assets/3b45a851-d758-467b-b502-1b0e2446f1c7" />
 
 A statusline de **cota** para o Claude Code. Veja quanto já usou dos limites de **5 horas** e
 **7 dias** e **quando reseta**, direto na barra de status. Um arquivo Python, sem dependência.
